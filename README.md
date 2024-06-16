@@ -11,6 +11,3 @@ You can use this [site](https://www.javatpoint.com/java-tutorial) for knowing ev
 
 Distributed under the MIT License. See `LICENSE.md` for more information.
 
-## Contact
-
-I usually hangout on [Twitter](https://twitter.com/_Adyasha8105_);)
